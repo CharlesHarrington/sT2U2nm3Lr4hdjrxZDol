@@ -13,7 +13,7 @@ Const decCHIPSCOST As Decimal = 0.35
 Const decSODACOST As Decimal = 1.25
 
 Dim strItems As String
-Dim decTotalCost As Decimal
+Dim decTotal As Decimal
 
 decTotalCost = 0
 strItems = ""
